@@ -11,6 +11,7 @@ int main() {
    
 
     printf("%d + %d = %d", number1, number2, sum);
+    printf("Numbers are %d and %d",number1,number2);
  
     return 0;
 }
