@@ -10,5 +10,6 @@ int main(){
 >>>>>>> 5dc3315a9e0d9579614d290f14cd77901c0ba7fc
     cout<<"git hub";
     cout<<"github2";
+    cout<<"changes";
     return 0;
 }
